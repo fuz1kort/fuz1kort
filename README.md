@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/fuz1kort/" target="_blank">Marat</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Software Engineering student in ITIS, KFU from Russia 🇷🇺</h3>
+<h3 align="center">Software Engineering student at ITIS, KFU in Russia 🇷🇺</h3>
 
 
 <!--
